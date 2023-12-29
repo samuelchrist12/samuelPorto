@@ -9,7 +9,7 @@ export default function Root() {
                 id="q"
                 aria-label="Search contacts"
                 placeholder="Search"
-                type="search"
+                type="search hey"
                 name="q"
               />
               <div
