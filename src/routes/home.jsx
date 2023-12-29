@@ -6,7 +6,7 @@ import Modal1 from "../assets/images/8.png";
 export default function Home() {
   return (
     <>
-      <div className="w-full flex flex-col gap-10 justify-center">
+      <div className="w-full flex flex-col gap-10 mt-8 justify-center">
         {" "}
         {/* HEADER */}
         <div className="gap-2 flex flex-col justify-center w-8/12 'items-center rounded-2xl">
@@ -33,8 +33,8 @@ export default function Home() {
             based in Malang,
             specializing in brand identity, digital marketing, and digital
             branding. I'm also actively involved in the web design and
-            development process, which encompasses stages such as 'Information
-            Gathering', 'Structure', 'Design', 'Build', 'Testing', and 'Launch'.
+            development process, which encompasses stages such as Information
+            Gathering, Structure, Design, Build, Testing, and Launch.
           </p>
 
           <a

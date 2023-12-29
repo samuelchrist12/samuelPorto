@@ -6,11 +6,16 @@ import {
 } from "react-router-dom";
 import "./index.css";
 import Home from "./routes/home";
+import Ayasara from "./routes/project/ayasara";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Home />,
+  },
+  {
+    path: "/my-works/ayasara",
+    element: <Ayasara />,
   },
 ]);
 
